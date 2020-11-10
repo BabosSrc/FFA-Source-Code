@@ -1,0 +1,9 @@
+name: FFA
+main: MulkiAqi192\FFA\Main
+author: MulkiAqi192
+api: 3.14.0
+version: 1.0
+
+commands:
+  ffa:
+    description: "Teleport you to FFA Arena"
